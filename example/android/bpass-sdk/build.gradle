@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('BPassSDK-Android-0.6.1.aar'))

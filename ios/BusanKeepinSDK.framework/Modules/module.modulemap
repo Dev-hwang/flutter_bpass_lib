@@ -1,0 +1,11 @@
+framework module BusanKeepinSDK {
+  umbrella header "BusanKeepinSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module BusanKeepinSDK.Swift {
+    header "BusanKeepinSDK-Swift.h"
+    requires objc
+}
