@@ -10,7 +10,7 @@ To use this plugin, add `flutter_bpass_lib` as a [dependency in your pubspec.yam
 dependencies:
   flutter_bpass_lib:
     git:
-      url: http://wjhwang@112.216.130.180:9000/B-Space/flutter_bpass_lib
+      url: https://github.com/Dev-hwang/flutter_bpass_lib.git
       ref: master
 ```
 
